@@ -9,7 +9,7 @@
 <!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
   <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a> -->
-<a href="https://www.linkedin.com/in/sunny-mishra-4a8a29218/">
+<a href="https://www.linkedin.com/in/sonu-kumar-singh-a36619208/">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="mailto:contactsunny07@gmail.com">
