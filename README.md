@@ -12,14 +12,11 @@
 <a href="https://www.linkedin.com/in/sonu-kumar-singh-a36619208/">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="mailto:contactsunny07@gmail.com">
+<a href="mailto:raftarsonu9000@gmail.com">
   <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <!-- <a href="https://instagram.com/_nitin787/">
   <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a> -->
-<!-- <a href="https://www.youtube.com/c/MrBioNik">
-  <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a> -->
 <!-- <a href="https://discord.com/users/947741502304550912">
   <img align="left" width="32px" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499935329878107/discord.png"/>
