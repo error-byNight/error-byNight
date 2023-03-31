@@ -91,7 +91,7 @@
 <!-- [twitter]: https://twitter.com/nitinn787
 [youtube]: https://www.youtube.com/c/MrBioNik
 [instagram]: https://www.instagram.com/_error_by_night_/ -->
-[linkedin]: https://www.linkedin.com/in/aadarsh-raj-60676a191/
+[linkedin]: https://www.linkedin.com/in/sonu-kumar-singh-a36619208/
 
 <div align="center">
 
