@@ -45,6 +45,7 @@
 <div align="left">
 <h3 align="left">Languages and Tools:</h3> 
 <br/>
+	
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/dusk/344/unity.png"></code>
