@@ -68,7 +68,6 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 
 
-
 <!--END_SECTION:activity-->
 
 </details>
