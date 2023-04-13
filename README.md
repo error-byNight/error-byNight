@@ -4,7 +4,6 @@
          width="45" /> I'm Sonu Kumar Singh !</h1>
 <h3 align="center">I'm a Software Developer!!</h3>	 
 
-
 ## 🌐 Socials 
 <br/>
 <!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
