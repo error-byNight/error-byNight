@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Sonu Kumar Singh !!</h1>
-<h3 align="center">I'm a Software Developer!!</h3>	 
+<h3 align="center">A curious and intuitive individual who is always seeking new knowledge.</h3>	 
 
 ## 🌐 Socials 
 
