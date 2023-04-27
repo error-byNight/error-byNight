@@ -36,7 +36,7 @@
   <ul>
     <li>👯 I'm Looking to Collaborate on  <b>Full Stack ( React-Node.js ), Flutter, And Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
-    <li>🌱 I’m currently learning <b>Cloud Computing, Unity and Blender<b></li>
+    <li>🌱 I’m currently learning <b>Python , ML & AI<b></li>
     <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
 <!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
     <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
