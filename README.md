@@ -34,7 +34,7 @@
 
 <div>
   <ul>
-    <li>👯 I'm Looking to Collaborate on  <b>Full Stack ( React-Node.js ), Flutter, And Open Source Projects</b></li>
+    <li>👯 I'm Looking to Collaborate on Open Source Projects</b></li>
     <li>💻 I'm self taught programmer</li>
     <li>🌱 I’m currently learning <b>Python , ML & AI<b></li>
     <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
