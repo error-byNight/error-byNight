@@ -33,14 +33,15 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=fff&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache&logoColor=fff&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+
 
 ---
 
