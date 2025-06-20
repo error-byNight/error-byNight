@@ -1,103 +1,76 @@
-<h1 align="center"> Helloo <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Sonu Kumar Singh !!</h1>
-<h3 align="center">A curious and intuitive individual who is always seeking new knowledge .</h3>	 
+<!-- Hi there, I'm Sonu Kumar Singh! 👋 -->
 
-## 🌐 Socials 
-
-<br/>
-<!-- <a href="https://twitter.com/intent/user?screen_name=nitinn787">
-  <img align="left" width="32px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a> -->
-<a href="https://www.linkedin.com/in/sonu-kumar-singh-a36619208/">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="mailto:raftarsonu9000@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<!-- <a href="https://instagram.com/_nitin787/">
-  <img align="left" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a> -->
-<!-- <a href="https://discord.com/users/947741502304550912">
-  <img align="left" width="32px" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499935329878107/discord.png"/>
-</a> -->
-
-<br/>
-<br/>
-
-
-# 💫 About Me :
-<br/>
-
-
-
-<div>
-  <ul>
-    <li>👯 I'm Looking to Collaborate on Open Source Projects</b></li>
-    <li>💻 I'm self taught programmer</li>
-    <li>🌱 I’m currently learning <b>Python , ML & AI<b></li>
-    <li>🥅 2023 Goals: Contribute more to Open Source projects</li>
-<!--     <li>💬 Ask me anything about <a href="https://discord.com/users/947741502304550912">here</a>! I'm always open to help!</li> -->
-    <li>😄 Pronouns: <b>He/Him</b> 💁‍</li>
-    <li>⚡ Fun facts: Richard Hendricks, Erlich Bachman, Binod, Dinesh, Elon Musk, Big Head</li>
-</ul>
-</div>
-
-<br />
-<div align="left">
-<h3 align="left">Languages and Tools:</h3> 
-<br/>
-	
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/dusk/344/unity.png"></code>
-
-<!-- <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></code> -->
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluency/344/node-js.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/flutter.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/c-sharp-logo-2.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/344/python--v1.png"></code>
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://cdn.discordapp.com/attachments/1005490731781193758/1005499547650367508/docker.png"></code>
-<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code> -->
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<br />
-<br />
-
-<!-- ## Let's chat -->
-<!-- <br/> -->
-<!-- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/947741502304550912?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/947741502304550912)
- -->
-<br/>
-<br/>
-<div align="center">
- <h3>Some Cool Github Stats:</h3> 
-</div>
+<h1 align="center">Hi, I'm Sonu Kumar Singh 👋</h1>
+<h3 align="center">Aspiring Data Engineer | Lifelong Learner</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=error-byNight&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=error-byNight&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/sonu-kumar-singh-lpu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raftarsonu9000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail"/>
+  </a>
 </p>
 
-<!-- [twitter]: https://twitter.com/nitinn787
-[youtube]: https://www.youtube.com/c/MrBioNik
-[instagram]: https://www.instagram.com/_error_by_night_/ -->
-[linkedin]: https://www.linkedin.com/in/sonu-kumar-singh-a36619208/
+---
 
-<div align="center">
+## 👨‍💻 About Me
 
-### Show some ❤️ by starring some of the repositories !
+- 🎓 **Education:** B.Tech in Computer Science & Engineering from Lovely Professional University  
+- 💼 **Current Focus:** Exploring Data Engineering, DevOps, and Full-Stack Development  
+- 💡 **Interests:** Data Engineering, Machine Learning, DevOps, Cloud Computing, Open Source  
+- 🌱 **Currently Learning:** Apache Spark, Kafka, Terraform, and advanced Docker + Kubernetes  
+- 🤝 **Open to Collaborate:** On open-source projects, hackathons, and impactful freelance gigs  
+- 📫 **Reach Me At:** raftarsonu9000@gmail.com  
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=fff&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=error-byNight&show_icons=true&theme=radical" alt="Sonu Kumar Singh's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=error-byNight&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error-byNight&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+- 🔹 [LinkedIn](https://www.linkedin.com/in/sonu-kumar-singh-lpu/)
+- 🔹 [Email](mailto:raftarsonu9000@gmail.com)
+- 🔹 [Portfolio](#) <!-- Add your portfolio URL here -->
+
+---
+
+## ⚡ Fun Facts
+
+- 🧠 I love solving logic puzzles, building scalable systems, and participating in coding competitions  
+- 📘 I’m passionate about sharing knowledge and documenting everything I learn  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=error-byNight&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+> “The only way to do great work is to love what you do.” — *Steve Jobs*
