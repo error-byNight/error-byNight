@@ -1,7 +1,7 @@
 <!-- Hi there, I'm Sonu Kumar Singh! 👋 -->
 
 <h1 align="center">Hi, I'm Sonu Kumar Singh 👋</h1>
-<h3 align="center">Aspiring Data Engineer | Lifelong Learner</h3>
+<h3 align="center">Aspiring Data Engineer |  Data Scientist </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-kumar-singh-lpu/" target="_blank">
@@ -17,14 +17,18 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering from Lovely Professional University  
-- 💼 **Current Focus:** Exploring Data Engineering, DevOps, and Full-Stack Development  
-- 💡 **Interests:** Data Engineering, Machine Learning, DevOps, Cloud Computing, Open Source  
-- 🌱 **Currently Learning:** Apache Spark, Kafka, Terraform, and advanced Docker + Kubernetes  
-- 🤝 **Open to Collaborate:** On open-source projects, hackathons, and impactful freelance gigs  
+- 💼 **Current Focus:** Exploring Data Science, DevOps, and Data Engineering  
+- 💡 **Interests:** Data Engineering, Machine Learning, DevOps and Data Science 
+- 🌱 **Currently Learning:** Apache Spark, Kafka, Terraform, Hadoop, and advanced Docker + Kubernetes 
+- 🤝 **Open to Collaborate:** On Impactful Projects, Hackathons 
 - 📫 **Reach Me At:** raftarsonu9000@gmail.com  
 
 ---
+## 🔗 Connect with Me
 
+- 🔹 [LinkedIn](https://www.linkedin.com/in/sonu-kumar-singh-lpu/)
+- 🔹 [Email](mailto:raftarsonu9000@gmail.com)
+---
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -49,14 +53,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error-byNight&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
----
-
-## 🔗 Connect with Me
-
-- 🔹 [LinkedIn](https://www.linkedin.com/in/sonu-kumar-singh-lpu/)
-- 🔹 [Email](mailto:raftarsonu9000@gmail.com)
-- 🔹 [Portfolio](#) <!-- Add your portfolio URL here -->
 
 ---
 
